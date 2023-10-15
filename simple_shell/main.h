@@ -10,5 +10,5 @@
 
 void displayPrompt(void);
 void main(void);
-
+void executeCommand(const char *command);
 #endif
